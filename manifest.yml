@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: ppitestPHP
+  host: ppitestPHP
+  disk_quota: 1024M
